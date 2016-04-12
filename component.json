@@ -1,0 +1,13 @@
+{
+    "name": "xlsx",
+    "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer",
+    "repos": "https://github.com/SheetJS/js-xlsx.git",
+    "main": "xlsx",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "0.8.0"
+}
